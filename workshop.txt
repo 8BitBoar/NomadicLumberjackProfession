@@ -1,0 +1,6 @@
+version=1
+id=3259471765
+title=Nomadic Lumberjack
+description=Custom mod by 8BitBoar. For a lumberjack with a trusty ride and even trustier axe. Private for friends.
+tags=Build 41
+visibility=private

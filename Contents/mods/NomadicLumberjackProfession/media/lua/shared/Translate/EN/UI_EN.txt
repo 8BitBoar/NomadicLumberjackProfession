@@ -1,0 +1,5 @@
+UI_EN = {
+    UI_trait_Lumberjacked = "Lumber-jacked",
+    UI_trait_LumberjackedDesc = "Gain additional Axe experience when chopping trees.<br>Can use Wood Axe more effectively in combat.<br>(Wood Axe swings cost less endurance.)",
+}
+
