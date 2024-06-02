@@ -1,5 +1,5 @@
 name=Nomadic Lumberjack
 id=NomadicLumberjack
 description=Custom mod by 8BitBoar. For a lumberjack with a trusty ride and even trustier axe.
-require=ProfessionFramework,zReApoPonchos
+require=ProfessionFramework
 poster=poster.png

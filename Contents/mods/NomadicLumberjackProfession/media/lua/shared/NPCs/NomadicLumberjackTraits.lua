@@ -4,6 +4,7 @@ ProfessionFramework.addTrait("Lumberjacked", {
     profession = true,
     xp = {
         [Perks.Strength] = 1,
+        [Perks.Fitnesss] = 1,
     },
 })
 
