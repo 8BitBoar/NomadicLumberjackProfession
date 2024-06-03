@@ -28,4 +28,9 @@ ProfessionFramework.addProfession('nomadiclumberjack', {
         ["Base.Woodglue"] = 3,
         ["Base.PetrolCan"] = 1,
     },
+    clothing = {
+        Shirt = {"Base.Shirt_Denim", "Base.Shirt_Lumberjack"},
+        Pants = {"Base.Trousers_JeanBaggy"},
+        Shoes = {"Base.Shoes_ArmyBoots"},
+    }
 })
